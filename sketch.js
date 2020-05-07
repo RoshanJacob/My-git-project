@@ -1,7 +1,7 @@
 function checkForWinner() {
   console.log("checking for winner...")
   var winner
-  var playerOne = getPlayerOne() //playerOne is always blue!
+  var playerOne = getPlayerOne() //playerOne is always blue!Hello!
     //console.log('checkForWinner, playerOne is: ', playerOne)
 var computer = (playerOne === "X") ? "O" : "X"
 //there are 8 winningCombos: 
